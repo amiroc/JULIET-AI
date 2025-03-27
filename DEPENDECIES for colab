@@ -1,0 +1,2 @@
+# %% Instalación de dependencias
+!pip install -q kaggle
