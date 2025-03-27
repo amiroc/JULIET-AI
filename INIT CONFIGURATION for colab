@@ -1,0 +1,14 @@
+# %% Configuración inicial
+import numpy as np
+import tensorflow as tf
+from tensorflow import keras
+from tensorflow.keras import layers
+import matplotlib.pyplot as plt
+import os
+import cv2
+from google.colab import files
+from IPython.display import Image
+
+# Montar Google Drive
+from google.colab import drive
+drive.mount('/content/drive')
